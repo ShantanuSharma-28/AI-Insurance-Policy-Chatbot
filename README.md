@@ -2,11 +2,9 @@
 
 ## Overview
 
-This project is an AI-powered chatbot that helps users understand different types of insurance policies. It uses natural language processing (NLP) techniques to answer queries related to health, auto, home, and life insurance. The chatbot can retrieve relevant information from a knowledge base built from insurance PDF documents.
+This project is a document-based AI chatbot that helps users understand insurance policies using natural language queries. It retrieves relevant information from insurance PDF documents and generates responses using an LLM-based pipeline built with LangChain and HuggingFace.
 
-## Hackathon Project
-
-This chatbot was developed as part of a hackathon aimed at creating an AI-driven solution for the insurance industry. The chatbot is designed to help users quickly understand complex insurance policies, making it easier for them to make informed decisions.
+The chatbot supports health, auto, home, and life insurance queries through a Streamlit interface.
 
 ## Features
 
